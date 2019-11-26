@@ -1,0 +1,10 @@
+debug/combinacion.o
+debug/configuration.o
+debug/game.o
+debug/juego.o
+debug/listaenlazada.o
+debug/main.o
+debug/gamewindow.o
+debug/nodo.o
+debug/qrc_imagenes.o
+debug/moc_gamewindow.o
